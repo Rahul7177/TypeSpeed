@@ -47,30 +47,30 @@ const endPlay = () => {
 
     if(speed>5 && speed<20)
     {
-        fb.innerText = "You need Improvement😅";
+        fb.innerText = "You need Improvement";
     }
     else if(speed>=20 && speed<40)
     {
-        fb.innerText = "Don't worry a little practice can help😊";
+        fb.innerText = "Don't worry a little practice can help";
     }
     else if(speed>=40 && speed<=60)
     {
-        fb.innertext = "You are doing great😍";
+        fb.innertext = "You are doing great";
     }
     else if(speed>60 && speed<=120)
     {
-        fb.innertext = "You are GODLY!!🤯";
+        fb.innertext = "You are GODLY!!";
     }
     else if(speed>120 && speed<200)
     {
-        fb.innertext = "What are you doing here? Go set a world record🥶";
+        fb.innertext = "What are you doing here? Go set a world record";
     }
     else if(speed>200)
     {
-        fb.innertext = "Hecker!!!🤨🤨";
+        fb.innertext = "Hecker!!!";
     }
     else{
-        fb.innerText = "Bruhh!!😑";
+        fb.innerText = "Bruhh!!";
     }
 }
 const compare = (str1 , str2) =>{

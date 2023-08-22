@@ -1,12 +1,12 @@
 const randomText = [
-    "Words are good because that is what we use everyday Ummm fast fingers is sooooooo good  Fidgets spinners are so popular anyways a story Digby The Littlest Duckling",
-    "Digby was the littlest duckling you have ever seen  He hatched from a tiny egg and did not grow as fast as his brothers or sisters  At feeding time", 
-    "he had to make do with their leftover crumbs  I will never grow bigger eating these  New experiences are the best",
-    "I have no idea  I accidentally left my money in my pants pocket and it got ruined in the washer",
-    "I ordered a new laptop case yesterday This could change all of our lives Airplanes are, statistically", 
-    "the safest form of transportation All the bikes locked up outside the subway station are missing either a wheel", 
-    "Or a seat She froze at the sight of the big spider I need to stop If you don't pay your taxes", 
-    "the police show up and force you to Don't even look at me!How big an idiot do you think"
+    "words are good because that is what we use everyday fast fingers is so good fidgets spinners are so popular anyways a story digby",
+    "digby was the littlest duckling you have ever seen he hatched from a tiny egg and did not grow as fast as his brothers or sisters at feeding time", 
+    "he had to make do with their leftover crumbs  i will never grow bigger eating these new experiences are the best",
+    "i have no idea i accidentally left my money in my pants pocket and it got ruined in the washer",
+    "i ordered a new laptop case yesterday this could change all of our lives airplanes are statistically", 
+    "the safest form of transportation all the bikes locked up outside the subway station are missing either a wheel", 
+    "or a seat She froze at the sight of the big spider i need to stop if you dont pay your taxes", 
+    "the police show up and force you to dont even look at me how big an idiot do you think"
     ]
 
 const msg = document.getElementById('msg');
